@@ -1,0 +1,76 @@
+.container1{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+.header-section{
+    margin-top: 50px;
+}
+.header-part1{
+    color: tomato;
+    
+}
+.header-part2{
+    color: rgb(75, 57, 192);
+    
+}
+.btn{
+    padding: 15px 30px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: teal;
+    font-weight: 700px;
+    
+}
+.logo, img{
+    margin-right: 10px;
+}
+.shoes-part{
+    margin-left: 100px;
+}
+
+.card-img-top{
+    margin-left: 10px;
+    margin-right: 40px;
+}
+.main-part{
+    margin-top: 60px;
+}
+.header-part3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: rgb(75, 57, 192);
+    
+}
+
+.main-blog{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.article{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+
+
+.grid-system{
+    margin-right: 80px;
+}
+.blog-info{
+    margin-left: 20px;
+}
+h5{
+    color: rgb(75, 57, 192);
+}
+
+.footer{
+    text-align: center;
+    background-color: cyan;
+}
+  
